@@ -45,3 +45,7 @@ body {
   border-radius: 5px;
   text-transform: capitalize;
 }
+.quote-wrapper blockquote {
+  padding: 1.4rem 0;
+  font-weight: 300;
+}
