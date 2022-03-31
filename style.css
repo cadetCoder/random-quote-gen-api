@@ -49,3 +49,8 @@ body {
   padding: 1.4rem 0;
   font-weight: 300;
 }
+.quote-wrapper cite {
+  display: block;
+  font-style: normal;
+  margin-bottom: 1rem;
+}
