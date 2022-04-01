@@ -54,3 +54,13 @@ body {
   font-style: normal;
   margin-bottom: 1rem;
 }
+#gen-quote-btn {
+  font-size: 1.1rem;
+  border: none;
+  background-color: var(--dark-purple);
+  color: #fff;
+  padding: 0.7rem 1.2rem;
+  border-radius: 1.5rem;
+  cursor: pointer;
+  outline: 0;
+}
