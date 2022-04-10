@@ -12,3 +12,8 @@ function randomQuote(){
       quoteAuthor.textContent = `--${data.author} `; 
     });
 }
+
+randomQuote();
+genQuoteBtn.addEventListener('click', () => {
+  randomQuote();
+});
